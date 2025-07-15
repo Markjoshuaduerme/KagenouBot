@@ -1,10 +1,10 @@
 {
-  "admins": [],
+  "admins": [61578122916354],
   "moderators": [],
   "developers": [],
   "Prefix": [
     "/"
   ],
   "botName": "KagenouBotV4",
-  "mongoUri": ""
+  "mongoUri": "mongodb+srv://markjoshuaduerme14:<db_password>@casidy.c7fcu4e.mongodb.net/?retryWrites=true&w=majority&appName=casidy"
 }
